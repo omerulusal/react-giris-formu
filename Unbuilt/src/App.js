@@ -39,6 +39,7 @@ function App() {
     <div className="container-fluid">
       <div className="row my-5 d-inline">
         <h2 className="text-center">Giriş Formu</h2>
+          <img src="https://assets.codepen.io/7773162/4kNYC.jpeg" alt="login image" class="login__img">
         <Form>
           <Input
             tip={"text"} mesaj="Kullanıcı adınızı giriniz..." degisme={degis}
