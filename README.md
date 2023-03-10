@@ -3,4 +3,4 @@ RESULT
 https://reactgirisform.netlify.app/
 
 
-<img width="960" alt="form" src="https://user-images.githubusercontent.com/96357374/215153045-67a448f3-4b09-4403-88c8-56d36c93290e.png">
+![giris](https://user-images.githubusercontent.com/96357374/224404006-cc32eeb7-7237-4e62-bb12-708e7980ceb0.png)
